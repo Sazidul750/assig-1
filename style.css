@@ -470,3 +470,27 @@
   }
   /* newslatter section end */
   /* main part end */
+  /* footer part start */
+.footer {
+    margin: auto 0;
+    height: 226px;
+    text-align: center;
+    background-color: #fff;
+  }
+  .footer-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0 40px;
+  }
+  .footer-title {
+    width: 1122px;
+    padding-bottom: 30px;
+    border-bottom: 2.5px solid #b8b3b33b;
+  }
+  .footer-icon {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+  }
+  /* footer part end */
